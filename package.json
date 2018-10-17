@@ -1,0 +1,27 @@
+{
+  "name": "hrsf105-mini-app-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacLeeWebDev/hrsf105-mini-app-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacLeeWebDev/hrsf105-mini-app-2/issues"
+  },
+  "homepage": "https://github.com/IsaacLeeWebDev/hrsf105-mini-app-2#readme"
+}
